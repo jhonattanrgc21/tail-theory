@@ -6,8 +6,7 @@
 
 // Declaracion de constantes
 #define START_SIZE 30
-//#define SAMPLE_SIZE 1000000
-#define SAMPLE_SIZE 10
+#define SAMPLE_SIZE 1000000
 
 /* CK define el numero de datos que se suman para obtener
 la distribucion normal */
